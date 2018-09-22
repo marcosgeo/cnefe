@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//cnefe/distrito.py=utf-8
+encoding//cnefe/endereco.py=utf-8
+encoding//cnefe/face.py=utf-8
+encoding//cnefe/lote.py=utf-8
+encoding//cnefe/municipio.py=utf-8
+encoding//cnefe/quadra.py=utf-8
+encoding/carregar_enderecos.py=utf-8
+encoding/carregar_faces.py=utf-8
+encoding/carregar_limites.py=utf-8
+encoding/limpar_tabelas.py=utf-8
+encoding/pooau.py=utf-8

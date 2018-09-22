@@ -1,0 +1,31 @@
+
+06/10/18 06/10/18 - Layer ./temp/tmp35503081500_face.shp nao possui faces com atributos.
+06/10/18 06/10/18 - Layer ./temp/tmp35503081600_face.shp nao possui faces com atributos.
+06/10/18 06/10/18 - Layer ./temp/tmp35503087100_face.shp nao possui faces com atributos.
+06/10/18 06/10/18 - Layer ./temp/tmp35503081500_face.shp nao possui faces com atributos.
+06/10/18 06/10/18 - Layer ./temp/tmp35503081500_face.shp nao possui faces com atributos.
+06/10/18 06/10/18 - Layer ./temp/tmp35503081600_face.shp nao possui faces com atributos.
+06/10/18 06/10/18 - Layer ./temp/tmp35503081600_face.shp nao possui faces com atributos.
+06/10/18 06/10/18 - Layer ./temp/tmp35503087100_face.shp nao possui faces com atributos.
+06/10/18 06/10/18 - Layer ./temp/tmp35503081500_face.shp nao possui faces com atributos.
+06/10/18 06/10/18 - Layer ./temp/tmp35503081500_face.shp nao possui faces com atributos.
+06/10/18 06/10/18 - Layer ./temp/tmp/35503081500_face.shp nao possui faces com atributos.
+06/10/18 06/10/18 - Layer ./temp/tmp/35503081500_face.shp nao possui faces com atributos.
+06/11/18 06/11/18 - Layer ./temp/tmp/35503081500_face.shp nao possui faces com atributos.
+06/11/18 06/11/18 - Layer ./temp/tmp/35503081500_face.shp nao possui faces com atributos.
+06/11/18 06/11/18 - Layer ./temp/tmp/35503081500_face.shp nao possui faces com atributos.
+06/11/18 06/11/18 - Layer ./temp/tmp/35503081500_face.shp nao possui faces com atributos.
+06/11/18 06/11/18 - Layer ./temp/tmp/35503081500_face.shp nao possui faces com atributos.
+06/11/18 06/11/18 - Layer ./temp/tmp/35503081600_face.shp nao possui faces com atributos.
+06/11/18 06/11/18 - Layer ./temp/tmp/35503081600_face.shp nao possui faces com atributos.
+06/11/18 06/11/18 - Layer ./temp/tmp/35503081500_face.shp nao possui faces com atributos.
+06/11/18 06/11/18 - Layer ./temp/tmp/35503081500_face.shp nao possui faces com atributos.
+06/11/18 06/11/18 - Layer ./temp/tmp/35503087100_face.shp nao possui faces com atributos.
+06/11/18 19:35:53 - Terminado ./temp/tmp/35503081500_face.shp sem erro.
+06/11/18 19:40:30 - Terminado ./temp/tmp/35503081500_face.shp sem erro.
+06/11/18 19:53:49 - Terminado ./temp/tmp/35503081500_face.shp sem erro.
+06/11/18 19:58:56 - Terminado ./temp/tmp/35503081500_face.shp sem erro.
+06/11/18 20:02:28 - Terminado ./temp/tmp/35503081500_face.shp sem erro.
+06/11/18 20:05:11 - Terminado ./temp/tmp/35503081500_face.shp sem erro.
+06/11/18 20:24:06 - Terminado ./temp/tmp/35503081500_face.shp sem erro.
+06/12/18 19:48:30 - Terminado ./temp/tmp/35503081500_face.shp sem erro.
